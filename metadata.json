@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý & Phê Duyệt Hồ Sơ Tổ Bảo Vệ ANTT",
+  "description": "Hệ thống quản lý, tiếp nhận, kiểm tra minh chứng, chấm điểm 5 nhóm tiêu chí và xếp hạng hồ sơ Tổ bảo vệ ANTT cho 150 đơn vị với lưu trữ Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
